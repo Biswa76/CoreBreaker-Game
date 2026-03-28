@@ -1,14 +1,8 @@
 
 
-# Steel Ascendant (2.5D Boss Fight)  
-**Team PopoConda**  
+# Corebreaker (2.5D Boss Fight)  
+**Biswajit Deb**  
 
-| **Category**       | **Details**                        |
-|---------------------|------------------------------------|
-| **Team Members**    | - NahiyanSamit (Team Leader)       |
-|                     | - itissaeed                       |
-|                     | - Biswa76                         |
-| **Mentor**          | - Warhammer4000                   |
 
 
 ## Game Introduction  
