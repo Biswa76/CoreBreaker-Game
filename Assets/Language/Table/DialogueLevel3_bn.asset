@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DialogueLevel3_bn
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: bn
+  m_SharedData: {fileID: 11400000, guid: fd063d3d25b8c424ab0a091409c87cff, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7248871424
+    m_Localized: "Avgvi `yB fvB \u2020Zvgvi Kv\u2021Q \u2020n\u2021i\u2021Q| Avgvi
+      ivM nIqv DwPZ| wK\u0161\u2018, Avwg \xEFay we\u2021bv`b \u2020c\u2021qwQ|"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10814029824
+    m_Localized: "\u2020iveU wkKvi nj me\u2021P\u2021q we\u2021bv`bg~jK \u2020Ljv
+      | we\u2021kl K\u2021i hLb GUv \u2020Zvgvi g\u2021Zv GKwU wU\u2021bi ev\xB7|"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13313835008
+    m_Localized: "nvn, Avwg \u2020Zvgvi mvn\u2021mi c\xD6ksmv Kwi| Avc\u2021mvm \u2020Zvgv\u2021K
+      gi\u2021Z n\u2021e| P\u2021jv \u2020`wL, hZUv Me\xA9 K\u2021iv ZZUv i\xB3cvZ
+      K\u2021iv wKbv|"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15901720576
+    m_Localized: "nvnv,P\u2021jv \u2020Zvgv\u2021i Ly\u2021j \u2020`wL, \u2020Zvgvi
+      Bw\xC4\u2021bi \u2020Z\u2021ji is wK|"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
